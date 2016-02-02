@@ -66,6 +66,11 @@
   definition:
   link:
 
+- word: Integer
+  definition: An integer is a whole number (not a fractional number) that can be positive, negative, or zero.Example: -5,1,10,200.
+  link: https://en.wikipedia.org/wiki/Integer
+
+
 - word: JavaScript
   definition: Javascript is a high-level, dynamic, untyped, and interpreted programming language. It was created by Brendan Eich in 10 days when he was allegedly drunk.
   link: https://en.wikipedia.org/wiki/JavaScript
@@ -137,6 +142,10 @@
 - word: V
   definition:
   link:
+
+- word: Vim (Vi improved)
+  definition: Vim is an open-source text editor designed for working with programming code in Unix.
+  link: https://medium.com/@fay_jai/what-is-vim-and-why-use-vim-54c67ce3c18e#.6y2jcpeic
 
 - word: W
   definition:
